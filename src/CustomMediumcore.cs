@@ -29,7 +29,7 @@ namespace CustomMediumcore
         /// <summary>
         /// Gets the version of this plugin.
         /// </summary>
-        public override Version Version => new Version(1, 4, 0, 0);
+        public override Version Version => new Version(1, 4, 0, 1);
 
         /// <summary>
         /// Name of the file which contains Item IDs that should be dropped on death, one per line
