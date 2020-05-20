@@ -32,4 +32,4 @@ how Starbound works.
 
 ## Changelog
 
-* 25.05.2020: v1.4.0.0 Initial public release
+* 19.05.2020: v1.4.0.0 Initial public release
