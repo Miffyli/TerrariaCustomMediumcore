@@ -89,9 +89,7 @@ namespace CustomMediumcore
         {
             if (args.MsgID == PacketTypes.PlayerDeathV2)
             {
-                // No need for fancy readers here, just peek next char
-                // with existing readers like the filthy hijacker we are
-                int PlayerID = args.Msg.reader.PeekChar();
+                int PlayerID = args.Msg.whoAmI;
                 OnPlayerDeath(PlayerID);
             }
         }
