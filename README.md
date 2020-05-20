@@ -29,7 +29,8 @@ how Starbound works.
 ## Limitations
 
 * You can only drop items from main inventory (main inventory + coins + ammo).
+* **No error checking**, i.e. if something goes wrong, this will just crush with a long stack-trace. 
 
 ## Changelog
 
-* 25.05.2020: v1.4.0.0 Initial public release
+* 19.05.2020: v1.4.0.0 Initial public release
